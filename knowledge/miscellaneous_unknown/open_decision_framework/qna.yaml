@@ -4,17 +4,47 @@ created_by: jimmysjolund
 seed_examples:
   - context: |
       The Open Decision Framework is a flexible, open approach to making
-      decisions and leading projects.
+      decisions and leading projects. The Open Decision Framework was
+      developed between 2009-2010 by Red Hat People team based on research by
+      Duke University’s Fuqua School of Business, Diana Martin, and additional
+      community resources. The Open Decision Framework was created to drive
+      better alignment between business decisions and the company strategy,
+      goals, culture, values, and mission. It would demonstrate "what good looks
+      like" in decision-making and communication. It would offer consistent
+      guidance for teams and leaders on Red Hat cultural expectations, balancing
+      transparency and confidentiality. Further it would improve associate
+      engagement, signal-to-noise ratio on the internal mailing list. It was
+      released on GitHub in 2016 using Creative Commons Attribution ShareAlike
+      4.0 International (CC BY-SA 4.0) license.
     questions_and_answers:
       - question: |
-        <A question used for synthetic data generation. Based upon the previous context.>
+          When was the Open Decision Framework created?
         answer: |
-          <The desired response for the question. Based upon the previous context.>
+          The Open Decision Framework was created in 2009 until 2010.
       - question: |
+          Why was the Open Decision Framework created?
         answer: |
+          The Open Decision Framework was created to drive better
+          alignment between business decisions and the company
+          strategy, goals, culture, values, and mission.
       - question: |
+          When was the Open Decision Framework released to the public?
         answer: |
+          It was released on GitHub in 2016.
   - context: |
+      The Open Decision Framework contains four phases: a) Concept, Define,
+      Ideate, b) Plan, Research, c) Design, Develop, Test, d) Launch, Deploy,
+      Close. There are different key activities in each phase.
+      Concept, Define, Ideate: Lead with transparency. Define a problem
+      statement. Identify who will contribute and who will sign off. Build
+      diversity of thought and an inclusive environment.
+      Plan, Research: Gather input. Make it easy to participate. Explain the
+      obvious. Publish your research. Remain open to new information and
+      perspectives.
+      Design, Develop, Test: Build your community. Promote open exchange. Make
+      it safe to voice concerns. Publish progress in an open place.
+      Launch, Deploy, Close: Begin with the end in mind. Show how feedback
+      shaped the decision. Default to open. Contribute upstream.
     questions_and_answers:
       - question: |
         answer: |
